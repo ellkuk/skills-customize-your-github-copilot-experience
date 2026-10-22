@@ -58,6 +58,39 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-books-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a REST API with FastAPI to manage books using CRUD endpoints, validation, and HTTP status codes.",
+      "path": "assignments/fastapi-books-api",
+      "dueDate": "2026-10-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
+    },
+    {
+      "id": "python-room-booking",
+      "title": "Python Room Booking Service",
+      "description": "Build a room booking service with Python classes, availability checks, booking validation, and clean code practices.",
+      "path": "assignments/python-room-booking",
+      "dueDate": "2026-10-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
