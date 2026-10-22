@@ -91,6 +91,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-unittest",
+      "title": "Testing Python Applications with unittest",
+      "description": "Write standard-library unit tests for shopping functions, including normal results, boundaries, and invalid inputs.",
+      "path": "assignments/python-unittest",
+      "dueDate": "2026-10-29",
+      "attachments": [
+        {
+          "name": "Shopping Module",
+          "file": "shop.py",
+          "type": "python"
+        },
+        {
+          "name": "Unit Test Starter",
+          "file": "test_shop.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
